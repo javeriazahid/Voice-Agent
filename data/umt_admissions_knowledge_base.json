@@ -1,0 +1,98 @@
+﻿[
+  {
+    "id": "kb_001",
+    "category": "general_info",
+    "question": "What is UMT?",
+    "answer": "The University of Management and Technology (UMT) is a private university in Lahore, Pakistan, established in 1990. It was formerly known as the Institute of Leadership & Management. UMT is recognized as one of Pakistan's leading private universities, with over 23,000 students, 700+ faculty members (including 200+ PhDs), and a 20,000+ strong alumni network."
+  },
+  {
+    "id": "kb_002",
+    "category": "general_info",
+    "question": "Where is UMT located?",
+    "answer": "UMT's main campus is located at UMT Road, C-II, Johar Town, Lahore, Punjab, Pakistan. UMT also has a campus in Sialkot, Punjab."
+  },
+  {
+    "id": "kb_003",
+    "category": "general_info",
+    "question": "What programs and schools does UMT offer?",
+    "answer": "UMT offers more than 150-180 accredited bachelor's, master's, and doctoral programs across 17 schools, 2 institutes, and 1 college. These include the School of Management, School of Systems and Technology, School of Professional Psychology, School of Design and Textiles, School of Social Sciences and Humanities, School of Law and Policy, School of Professional Advancement, School of Engineering, School of Governance and Society, School of Science, School of Commerce and Accountancy, and School of Food and Agricultural Sciences, among others. Fields include management, computer science, engineering, textile design, law, media and communication, psychology, education, aviation, and more."
+  },
+  {
+    "id": "kb_004",
+    "category": "admission_criteria",
+    "question": "What is the admission criteria for undergraduate BS Computer Science programs?",
+    "answer": "For BS Computing programs, applicants need a minimum of 50% marks in Intermediate/12 years of education/A-Levels (HSSC) or equivalent, with Mathematics. Students with a Pre-Medical background (Physics, Chemistry, Biology) can also apply but must complete two additional Mathematics courses (6 credit hours) in their first year. Foreign education requires an IBCC equivalency certificate."
+  },
+  {
+    "id": "kb_005",
+    "category": "admission_criteria",
+    "question": "What is the general merit criteria for undergraduate admission at UMT?",
+    "answer": "General merit is typically calculated as 50% Intermediate marks, 30% Entrance Test score, and 20% Matric marks (with an interview if required). Specific programs like Law require additional criteria: 50% marks in the Law Admission Test (LAT), academic marks, UGAT/GAT score, and a panel interview."
+  },
+  {
+    "id": "kb_006",
+    "category": "how_to_apply",
+    "question": "How do I apply to UMT?",
+    "answer": "You can apply online by signing up on the UMT admissions portal at onlineadmissions.umt.edu.pk, filling in the application form (mandatory fields marked with *), paying a Rs. 2,000 processing fee via HBL deposit slip or voucher, and uploading the paid voucher. Alternatively, you can apply in person by visiting the UMT Admissions Office at C-II, Johar Town, Lahore, getting a token, receiving career counseling, purchasing and submitting the admission form, and appearing for the entry test or interview."
+  },
+  {
+    "id": "kb_007",
+    "category": "how_to_apply",
+    "question": "What happens after I submit my application?",
+    "answer": "After applying, you appear for the entry test and/or interview (if required), then check the merit list, pay your fee, and submit your documents to confirm your admission."
+  },
+  {
+    "id": "kb_008",
+    "category": "contact",
+    "question": "How do I contact UMT admissions?",
+    "answer": "You can call the UMT Admissions Office at +92 42 35212801-10 or email admissions@umt.edu.pk."
+  },
+  {
+    "id": "kb_009",
+    "category": "fees",
+    "question": "How much is the application processing fee?",
+    "answer": "The application processing fee is Rs. 2,000, payable via HBL deposit slip or voucher as part of the online or in-person application process."
+  },
+  {
+    "id": "kb_010",
+    "category": "fees",
+    "question": "Where can I find the detailed fee structure for my program?",
+    "answer": "UMT publishes a general fee structure guide for each admission cycle (undergraduate, graduate, PhD, and associate degree programs) on the admissions website's Fee Structure page. Since program fees can be revised during the degree program, students should contact the UMT Office of Information and Admissions directly for the most current and program-specific fee details."
+  },
+  {
+    "id": "kb_011",
+    "category": "fees",
+    "question": "Does UMT offer scholarships or financial aid?",
+    "answer": "Yes, UMT offers several types of financial assistance, including merit-based scholarships, alumni scholarships, need-based financial aid, and other scholarships and discounts, for students who qualify academically or demonstrate financial need."
+  },
+  {
+    "id": "kb_012",
+    "category": "programs",
+    "question": "What types of degree programs does UMT offer?",
+    "answer": "UMT offers Associate Degree Programs, Post-Associate Degree Programs, Undergraduate (BS/BA/BSc) Programs, Graduate (Master's/MPhil) Programs, PhD Programs, and One-Year Certificate/Degree Programs."
+  },
+  {
+    "id": "kb_013",
+    "category": "programs",
+    "question": "What disciplines can I study at UMT?",
+    "answer": "UMT offers programs across many disciplines including Applied Health Sciences, Architecture/Town Planning, Art and Design, Business Information Systems, Business Management Sciences, Commerce, Computer Science/Information Technology, Education, Engineering, English Language and Linguistics, Food Sciences, Islamic Studies, Law, Media Communications, Psychology, Pure Sciences, Social Sciences, and Textile."
+  },
+  {
+    "id": "kb_014",
+    "category": "campus_life",
+    "question": "What facilities does UMT offer on campus?",
+    "answer": "UMT's campus includes cafeterias and a Symposium Café, specialized laboratories for Engineering, Health Sciences, and Textile students, an ultra-modern IT computing environment, air-conditioned transport (coasters and buses), a Learning Resource Centre (library), and a media production studio for filmmaking, TV, radio, and online broadcasting."
+  },
+  {
+    "id": "kb_015",
+    "category": "campus_life",
+    "question": "Does UMT have a Learning Management System (LMS)?",
+    "answer": "Yes, UMT provides an e-learning/Learning Management System for enrolled students, accessible at connected.umt.edu.pk. This is separate from the admissions process and requires an enrolled student login."
+  },
+  {
+    "id": "kb_016",
+    "category": "international",
+    "question": "Can international students apply to UMT?",
+    "answer": "Yes, UMT accepts international students. Details and support for international applicants are available through UMT's Office of International Networking (OIN)."
+  }
+]

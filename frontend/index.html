@@ -1,0 +1,109 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>UMT Voice Agent</title>
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    background: #0f172a;
+    color: #f1f5f9;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+  }
+  h1 { margin-bottom: 4px; }
+  p.subtitle { color: #94a3b8; margin-top: 0; }
+  #micBtn {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    border: none;
+    background: #2563eb;
+    color: white;
+    font-size: 40px;
+    cursor: pointer;
+    margin-top: 30px;
+    transition: background 0.2s;
+  }
+  #micBtn.recording {
+    background: #dc2626;
+    animation: pulse 1.2s infinite;
+  }
+  @keyframes pulse {
+    0% { box-shadow: 0 0 0 0 rgba(220,38,38,0.6); }
+    70% { box-shadow: 0 0 0 20px rgba(220,38,38,0); }
+    100% { box-shadow: 0 0 0 0 rgba(220,38,38,0); }
+  }
+  #status { margin-top: 20px; color: #94a3b8; min-height: 20px; }
+  #log {
+    margin-top: 30px;
+    width: 600px;
+    max-width: 90vw;
+    max-height: 300px;
+    overflow-y: auto;
+    background: #1e293b;
+    border-radius: 8px;
+    padding: 12px;
+    font-size: 13px;
+    text-align: left;
+  }
+  .log-line { margin-bottom: 6px; }
+  .log-tool { color: #38bdf8; }
+  .log-result { color: #4ade80; }
+
+  #conversation {
+    margin-top: 30px;
+    width: 600px;
+    max-width: 90vw;
+    max-height: 300px;
+    overflow-y: auto;
+    text-align: left;
+  }
+  .bubble {
+    padding: 10px 14px;
+    border-radius: 12px;
+    margin-bottom: 10px;
+    max-width: 80%;
+    line-height: 1.4;
+  }
+  .bubble.agent {
+    background: #1e293b;
+    color: #f1f5f9;
+  }
+  .bubble.user {
+    background: #2563eb;
+    color: white;
+    margin-left: auto;
+    text-align: right;
+  }
+  #devToggleLabel {
+    display: block;
+    margin-top: 16px;
+    font-size: 12px;
+    color: #64748b;
+    cursor: pointer;
+  }
+</style>
+</head>
+<body>
+
+<h1>🎓 UMT Voice Agent</h1>
+<p class="subtitle">Ask about admissions in English, Urdu, or Punjabi</p>
+
+<button id="micBtn">🎤</button>
+<div id="status">Click the mic to start talking</div>
+
+<div id="conversation"></div>
+
+<label id="devToggleLabel">
+  <input type="checkbox" id="devToggle"> Developer mode (show technical logs)
+</label>
+<div id="log" style="display:none;"></div>
+
+<script src="/static/app.js"></script>
+</body>
+</html>
